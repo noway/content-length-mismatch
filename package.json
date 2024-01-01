@@ -1,0 +1,8 @@
+{
+  "name": "content-length-mismatch-bug",
+  "author": "Ilia Sidorenko",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
